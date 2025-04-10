@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 41,
+    "_name": "Batman Updated",
+    "_description": "Actualización",
+    "_type": "Pop!",
+    "_gender": "Male",
+    "_franchise": "DC",
+    "_sid": 111,
+    "_exclusive": false,
+    "_qualities": "Metallic",
+    "_price": 100
+  },
+  {
+    "_id": 50,
+    "_name": "Superman",
+    "_description": "Superman edición especial",
+    "_type": "Pop!",
+    "_gender": "Male",
+    "_franchise": "DC",
+    "_sid": 101,
+    "_exclusive": true,
+    "_qualities": "Brilla en la oscuridad",
+    "_price": 75
+  }
+]
